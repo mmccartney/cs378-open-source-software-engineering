@@ -1,5 +1,6 @@
 # CS 378: Open Source Software Engineering
 MW 9:30am-11am, GDC 1.304
+
 52051
 
 ## Mike McCartney
