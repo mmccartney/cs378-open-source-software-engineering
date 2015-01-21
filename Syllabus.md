@@ -3,11 +3,15 @@ MW 9:30am-11am, GDC 1.304
 
 52051
 
-## Mike McCartney
-mmccartney@utexas.edu
-MW 11am-1pm, GDC 5.420
+## Instructor
+* Mike McCartney
+* mmccartney@utexas.edu
+* MW 11am-1pm, GDC 5.420
 
-## Teaching Assistant (TBD)
+## Teaching Assistant
+* Garry Lin
+* glin()utexas.edu
+* MW 3-4 p.m, GDC 1.302 (TA station), desk 1
 
 ## Overview
 
