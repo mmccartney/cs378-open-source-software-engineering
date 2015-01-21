@@ -9,7 +9,7 @@ MW 9:30am-11am, GDC 1.304
 * MW 11am-1pm, GDC 5.420
 
 ## Teaching Assistant
-* Garry Lin
+* Guangyu (Garry) Lin
 * glin()utexas.edu
 * MW 3-4 p.m, GDC 1.302 (TA station), desk 1
 
