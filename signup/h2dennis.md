@@ -1,1 +1,3 @@
-Name: Howard Dennis Invite: h2dennis()cs.utexas.edu Project: Selendroid
+* Name: Howard Dennis
+* Invite: h2dennis()cs.utexas.edu
+* Project: Selendroid

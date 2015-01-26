@@ -1,3 +1,3 @@
-- Name: Miguel Del Valle
-- Invite: mdelvalle()utexas.edu
-- Project: Selendroid
+* Name: Miguel Del Valle
+* Invite: mdelvalle()utexas.edu
+* Project: Selendroid

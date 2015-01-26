@@ -1,3 +1,3 @@
-*Name: Thien Vo
-*Email: vohuythien@utexas.edu
-*Project: GeoMesa
+* Name: Thien Vo
+* Invite: vohuythien@utexas.edu
+* Project: GeoMesa

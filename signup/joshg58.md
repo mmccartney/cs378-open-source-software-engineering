@@ -1,3 +1,3 @@
-Name: Joshua Gutierrez
-Email: joshuagutierrez@utexas.edu 
-Project: ios-driver
+* Name: Joshua Gutierrez
+* Invite: joshuagutierrez@utexas.edu
+* Project: iOS-Driver
