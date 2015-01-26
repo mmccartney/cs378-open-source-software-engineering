@@ -14,5 +14,7 @@
     * Selendroid
 
 ## Agenda
+TBD
 
 ## Food
+TBD

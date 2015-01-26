@@ -6,7 +6,7 @@ a request for new functionality.  You will want to choose work that
 interests you.  I recommend starting small and working up to something
 interesting that would look good on a resume' :-)
 
-### what is the idea on how many pull requests we'll be trying to push?
+### What is the idea on how many pull requests we'll be trying to push?
 
 You should submit multiple pull requests throughout the semester.  The
 smaller and more focused a given request is improves the likelihood
@@ -22,7 +22,7 @@ would start with a statement of intent to make sure they agree with
 the design/approach and then sync-up in terms of progress/direction
 along the way.
 
-### if we are graded on pull requests, what happens when none of our requests are accepted?
+### If we are graded on pull requests, what happens when none of our requests are accepted?
 
 The best general answer I can give is "partial credit".  Your grade
 will be based on quality and quantity of your work as it relates to
