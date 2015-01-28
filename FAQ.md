@@ -56,3 +56,15 @@ Go for the more interesting project and see how far you can get by the
 end of the first day of the code sprint.  If you change your mind
 then, it should be fine.  After that though, you may be hurting your
 chances of success.
+
+### What are some good resources for learning Scala?
+
+Apart from [Scala's home](http://www.scala-lang.org/), these should help:
+
+* [Programming Scala](http://shop.oreilly.com/product/0636920033073.do)
+* [Scala Style Guide](https://github.com/paypal/scala-style-guide)
+
+### What is the URL for screen sharing during class?
+
+http://myroom-na.adobeconnect.com/cs378/
+
