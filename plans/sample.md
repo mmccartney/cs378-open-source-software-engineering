@@ -6,9 +6,9 @@ I have my development environment up and feel comfortable making code changes.
 
 I am going to implement the following use cases:
 
-* As an ios-driver developer, I would like the unit tests to pass
+* As an ios-driver developer, I would like the unit tests to pass so I can feel confident that I am not breaking anything.
 
-* As an iOS app developer, I would like to be able to test location aware apps by simulating specific locations.
+* As an iOS app developer, I would like to be able to test location aware apps by simulating specific locations so I can ensure that my regional recommendations are functioning as expected.
 
 ## Plan
 
