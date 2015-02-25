@@ -1,5 +1,8 @@
 Mikkel Kim - mck782
 Hongbing Cai - hc8453
+Jungmo Ku - jk36326
+
+EVERYONE HAS TO LEARN SCALA FIRST.
 
 ## Status
 
