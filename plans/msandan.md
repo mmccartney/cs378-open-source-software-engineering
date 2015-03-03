@@ -1,10 +1,10 @@
 ## Status
 
-* Trying to digest this [issue](https://github.com/geotrellis/curve/issues/3) to get a handle on first bulletpoint in Goal. Currently (2) in Plan
+* Trying to digest this [issue](https://github.com/geotrellis/curve/issues/3) to get a handle on first bulletpoint in Goal. Currently (3) in Plan
 
-* Finishing up the HilbertCurve's RangeQuery implementation, crossing out (2) in the plan
+* Finishing up the HilbertCurve's RangeQuery implementation and Benchmarks for zCurve, crossing out (2) in the plan
 
-* Adding benchmarks to zCurves
+* Adding benchmarks to zCurves to cover zRanges
 
 (1) in the plan has been mostly addressed by @brett61
 
@@ -25,3 +25,4 @@
 1. Implement simple space filling curves as a baseline
 1. Read up on literature (papers sent by Jim) 
 1. Refactor GeoMesa/geohash/ space filling curves implementation into SFCurves/ project
+1. Implement space filling curves 
