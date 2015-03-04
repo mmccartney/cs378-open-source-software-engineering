@@ -1,4 +1,4 @@
-#Team members: Zachary Sanders, Sage Moore, Mark Daniel, Ali Mavrakis
+Team members: Zachary Sanders, Sage Moore, Mark Daniel, Ali Mavrakis
 
 ##Status
 
