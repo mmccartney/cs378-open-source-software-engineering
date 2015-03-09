@@ -49,10 +49,14 @@ Make sure the project has JDK 1.7 configured by navigating through:
     1. `mvn package -DskipTests=true`
     1. `java -jar server/target/ios-server-standalone-*-with-dependencies.jar`
 1. See server status at http://localhost:5555/wd/hub/status
+1. Run the server to test the sample app:
+    1. `curl -O http://ios-driver.github.io/ios-driver/files/InternationalMountains.app.zip`
+    1. `unzip InternationalMountains.app.zip`
+    1. `java -jar server/target/ios-server-standalone-*-with-dependencies.jar -app InternationalMountains.app`
 
 ### Selendroid Setup
 
-*Something is messed up here*
+*These instructions are missing the setup of the AVD -- the wrong one breaks the test*
 
 1. Go to https://github.com/selendroid/selendroid and [Fork](https://github.com/selendroid/selendroid/fork) it
 1. Install [Android Studio](http://developer.android.com/sdk/index.html)
@@ -65,8 +69,6 @@ Make sure the project has JDK 1.7 configured by navigating through:
 1. View > Tool Windows > Project
 1. In a terminal window
     1. `cd ~/IdeaProjects/selendroid/`
-    1. `git submodule init`
-    1. `git submodule update`
     1. `export JAVA_HOME=$(/usr/libexec/java_home -v 1.7+)`
     1. `export MAVEN_OPTS="-Xss10m -Xms512m -Xmx512m"`
     1. `export ANDROID_HOME=~/Library/Android/sdk`
@@ -77,7 +79,7 @@ Make sure the project has JDK 1.7 configured by navigating through:
     1. `java -jar selendroid-standalone/target/selendroid-standalone-*-with-dependencies.jar`
 1. See server status at http://localhost:4444/wd/hub/status
 1. Run the server to test the sample app:
-    1. `java -jar selendroid-standalone/target/selendroid-standalone-*-with-dependencies.jar -app selendroid-test-app/target/*.apk`
+    1. `java -jar selendroid-standalone/target/selendroid-standalone-*-with-dependencies.jar -app selendroid-test-app/target/selendroid-test-app-*.apk`
 
 ### Setup Adium for IRC
 
@@ -90,3 +92,4 @@ Make sure the project has JDK 1.7 configured by navigating through:
 1. specify the IRC server: `chat.freenode.net`
 1. File > Join Group Chat... > `#selendroid`
 1. File > Join Group Chat... > `#ios-driver`
+
