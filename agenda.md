@@ -222,7 +222,17 @@ Wed 4 Mar
 
 Mon 9 Mar
 
+* discuss TestNG
+    - @BeforeClass, @AfterClass
+    - @BeforeMethod, @AfterMethod
+    - testng.xml
+
 * discuss mid-term
 
 * working time
 
+================================================================
+
+Wed 11 Mar
+
+* mid-term exam
