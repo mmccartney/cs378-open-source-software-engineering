@@ -37,6 +37,9 @@
 * https://github.com/selendroid/selendroid/pull/827
     * [huntinglauren](https://github.com/huntinglauren)
 
+* https://github.com/selendroid/selendroid.io/pull/8
+    * [Blackbaud-KyleMartinez](https://github.com/Blackbaud-KyleMartinez)
+
 ## iOS Driver
 
 *none*
