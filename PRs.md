@@ -42,4 +42,5 @@
 
 ## iOS Driver
 
-*none*
+* https://github.com/ios-driver/ios-driver/wiki/Getting-Starting-Developing-With-Ios-driver
+    * [thanhcs](https://github.com/thanhcs)
