@@ -1,3 +1,5 @@
+Team members: Zachary Sanders, Sage Moore, Mark Daniel, Ali Mavrakis
+
 ##Status
 
 We all have hadoop, zookeeper, and accumulo up and running so we should be able to start working on stuff
