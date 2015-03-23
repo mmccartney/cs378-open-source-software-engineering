@@ -21,12 +21,21 @@
 * https://github.com/geotrellis/geotrellis/pull/1032
     * [kyeah](https://github.com/kyeah)
 
+### Space Filling Curves
+
+* https://github.com/geotrellis/curve/pull/6
+    * [sandan](https://github.com/sandan)
+* https://github.com/geotrellis/curve/pull/7
+    * [bretts61](https://github.com/bretts61)
+
 ## GeoMesa
 
 * https://github.com/locationtech/geomesa/pull/487
     * [kevinwheeler](https://github.com/kevinwheeler)
 * https://github.com/locationtech/geomesa/pull/494
     * [sivakom](https://github.com/sivakom)
+* https://github.com/locationtech/geomesa/pull/501
+    * [kevinwheeler](https://github.com/kevinwheeler)
 
 ## Selendroid
 
@@ -36,11 +45,24 @@
     * [ILikeToNguyen](https://github.com/ILikeToNguyen)
 * https://github.com/selendroid/selendroid/pull/827
     * [huntinglauren](https://github.com/huntinglauren)
+* https://github.com/selendroid/selendroid/pull/829
+    * [ILikeToNguyen](https://github.com/ILikeToNguyen)
+* https://github.com/selendroid/selendroid/pull/833
+    * [chooper9](https://github.com/chooper9)
+* https://github.com/selendroid/selendroid/pull/835
+    * [huntinglauren](https://github.com/huntinglauren)
+
+### Selendroid.io
 
 * https://github.com/selendroid/selendroid.io/pull/8
     * [Blackbaud-KyleMartinez](https://github.com/Blackbaud-KyleMartinez)
+* https://github.com/selendroid/selendroid.io/pull/9
+    * [ILikeToNguyen](https://github.com/ILikeToNguyen)
+
 
 ## iOS Driver
 
 * https://github.com/ios-driver/ios-driver/wiki/Getting-Starting-Developing-With-Ios-driver
+    * [thanhcs](https://github.com/thanhcs)
+* https://github.com/ios-driver/ios-driver/pull/359
     * [thanhcs](https://github.com/thanhcs)
