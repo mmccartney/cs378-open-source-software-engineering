@@ -236,3 +236,17 @@ Mon 9 Mar
 Wed 11 Mar
 
 * mid-term exam
+
+================================================================
+
+Mon 23 Mar
+
+* discuss status
+    - walked through experience of asking for help
+    - avoiding having a single gatekeeper for knowledge
+    - the utility of a good FAQ
+
+* discuss debugging
+    - walked through https://github.com/ios-driver/ios-driver/blob/dev/server/src/main/java/org/uiautomation/ios/utils/DeviceUUIDsMap.java
+
+* working time
