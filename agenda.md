@@ -250,3 +250,55 @@ Mon 23 Mar
     - walked through https://github.com/ios-driver/ios-driver/blob/dev/server/src/main/java/org/uiautomation/ios/utils/DeviceUUIDsMap.java
 
 * working time
+
+================================================================
+
+Wed 25 Mar
+
+* review select exam questions
+    - 7. How are agile and waterfall similar?
+    - 9. What is the point of the agile manifesto?
+    - 12. What effect does git fetch have on your source tree?
+
+* github exercise
+    - use a branch-to-branch PR in CS378-OSSE repo for code sharing
+
+* working time
+
+
+================================================================
+
+Mon 30 Mar
+
+* working time
+
+================================================================
+
+Wed 1 Apr
+
+* review select exam questions
+    - 7. How are agile and waterfall similar?
+    - 9. What is the point of the agile manifesto?
+    - 14. What three questions should answered by a good user story?
+
+* Security
+    * Security x Usability = 1
+    * Security Through Obscurity (Obfuscation)
+    * Trust
+    * Time
+    * OAuth 2.0
+        * http://tools.ietf.org/html/rfc6749
+    * Tokens
+        * http://jwt.io/
+    * Security Architectures
+        * http://xacmlinfo.org/2011/10/30/xacml-reference-architecture/
+        * https://docs.oracle.com/cd/E50612_01/doc.11122/user_guide/content/authz_xacml_pep.html
+
+================================================================
+
+Mon 6 Apr
+
+* PRs
+    * how do you get PRs accepted?
+    * if you get feedback on a PR, should you submit another?
+    * what if they ask you to squash commits?
