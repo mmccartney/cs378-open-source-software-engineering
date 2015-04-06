@@ -1,35 +1,35 @@
-| status | submitter              | author                 |  # commits | link                                               |
+| status | submitter              | author                 | commits | link                                               |
 | ------ | ---------------------- | ---------------------- | ---------- | -------------------------------------------------- |
-| merged | kyeah                  | kyeah                  |  3 commits | https://github.com/geotrellis/geotrellis/pull/1047 |
-|   open | st028                  | st028                  |  3 commits | https://github.com/geotrellis/geotrellis/pull/1044 |
-| merged | kyeah                  | kyeah                  |  6 commits | https://github.com/geotrellis/geotrellis/pull/1037 |
-| merged | kyeah                  | kyeah                  |  2 commits | https://github.com/geotrellis/geotrellis/pull/1032 |
-| merged | st028                  | st028                  |  3 commits | https://github.com/geotrellis/geotrellis/pull/1031 |
-| merged | kyeah                  | kyeah                  |  8 commits | https://github.com/geotrellis/geotrellis/pull/1028 |
-| merged | st028                  | st028                  |  1 commits | https://github.com/geotrellis/geotrellis/pull/1027 |
-| merged | st028                  | kyeah                  |  3 commits | https://github.com/geotrellis/geotrellis/pull/1027 |
-| merged | st028                  | st028                  |  7 commits | https://github.com/geotrellis/geotrellis/pull/1023 |
-| merged | kyeah                  | kyeah                  |  3 commits | https://github.com/geotrellis/geotrellis/pull/1015 |
-| merged | kyeah                  | kyeah                  |  5 commits | https://github.com/geotrellis/geotrellis/pull/991  |
-| merged | st028                  | st028                  |  1 commits | https://github.com/geotrellis/geotrellis/pull/987  |
-| closed | st028                  | st028                  |  1 commits | https://github.com/geotrellis/geotrellis/pull/985  |
-|   open | SageMoore              | SageMoore              |  2 commits | https://github.com/geotrellis/gt-admin/pull/2      |
-|   open | bretts61               | bretts61               |  3 commits | https://github.com/geotrellis/curve/pull/11        |
-|   open | sandan                 | sandan                 |  8 commits | https://github.com/geotrellis/curve/pull/10        |
-| merged | bretts61               | bretts61               | 18 commits | https://github.com/geotrellis/curve/pull/7         |
-| merged | sandan                 | sandan                 | 28 commits | https://github.com/geotrellis/curve/pull/6         |
-| closed | kevinwheeler           | kevinwheeler           |  3 commits | https://github.com/locationtech/geomesa/pull/501   |
-| closed | sivakom                | sivakom                | 12 commits | https://github.com/locationtech/geomesa/pull/494   |
-| closed | kevinwheeler           | kevinwheeler           |  4 commits | https://github.com/locationtech/geomesa/pull/487   |
-|   open | ant8012                | ant8012                |  1 commits | https://github.com/selendroid/selendroid/pull/849  |
-|   open | colindmurray           | colindmurray           | 20 commits | https://github.com/selendroid/selendroid/pull/848  |
-|   open | colindmurray           | chooper9               |  5 commits | https://github.com/selendroid/selendroid/pull/848  |
-| closed | h2dennis               | h2dennis               |  1 commits | https://github.com/selendroid/selendroid/pull/841  |
-| closed | huntinglauren          | huntinglauren          |  1 commits | https://github.com/selendroid/selendroid/pull/840  |
-| merged | huntinglauren          | huntinglauren          |  1 commits | https://github.com/selendroid/selendroid/pull/835  |
-| merged | chooper9               | chooper9               |  1 commits | https://github.com/selendroid/selendroid/pull/833  |
-| closed | chooper9               | chooper9               |  5 commits | https://github.com/selendroid/selendroid/pull/819  |
-| merged | Blackbaud-KyleMartinez | Blackbaud-KyleMartinez |  4 commits | https://github.com/selendroid/selendroid/pull/816  |
-| merged | Blackbaud-KyleMartinez | Blackbaud-KyleMartinez |  1 commits | https://github.com/selendroid/selendroid.io/pull/8 |
-|   open | thanhcs                | thanhcs                |  1 commits | https://github.com/ios-driver/ios-driver/pull/363  |
-| closed | thanhcs                | thanhcs                |  4 commits | https://github.com/ios-driver/ios-driver/pull/359  |
+| merged | kyeah                  | kyeah                  |       3 | https://github.com/geotrellis/geotrellis/pull/1047 |
+|   open | st028                  | st028                  |       3 | https://github.com/geotrellis/geotrellis/pull/1044 |
+| merged | kyeah                  | kyeah                  |       6 | https://github.com/geotrellis/geotrellis/pull/1037 |
+| merged | kyeah                  | kyeah                  |       2 | https://github.com/geotrellis/geotrellis/pull/1032 |
+| merged | st028                  | st028                  |       3 | https://github.com/geotrellis/geotrellis/pull/1031 |
+| merged | kyeah                  | kyeah                  |       8 | https://github.com/geotrellis/geotrellis/pull/1028 |
+| merged | st028                  | st028                  |       1 | https://github.com/geotrellis/geotrellis/pull/1027 |
+| merged | st028                  | kyeah                  |       3 | https://github.com/geotrellis/geotrellis/pull/1027 |
+| merged | st028                  | st028                  |       7 | https://github.com/geotrellis/geotrellis/pull/1023 |
+| merged | kyeah                  | kyeah                  |       3 | https://github.com/geotrellis/geotrellis/pull/1015 |
+| merged | kyeah                  | kyeah                  |       5 | https://github.com/geotrellis/geotrellis/pull/991  |
+| merged | st028                  | st028                  |       1 | https://github.com/geotrellis/geotrellis/pull/987  |
+| closed | st028                  | st028                  |       1 | https://github.com/geotrellis/geotrellis/pull/985  |
+|   open | SageMoore              | SageMoore              |       2 | https://github.com/geotrellis/gt-admin/pull/2      |
+|   open | bretts61               | bretts61               |       3 | https://github.com/geotrellis/curve/pull/11        |
+|   open | sandan                 | sandan                 |       8 | https://github.com/geotrellis/curve/pull/10        |
+| merged | bretts61               | bretts61               |      18 | https://github.com/geotrellis/curve/pull/7         |
+| merged | sandan                 | sandan                 |      28 | https://github.com/geotrellis/curve/pull/6         |
+| closed | kevinwheeler           | kevinwheeler           |       3 | https://github.com/locationtech/geomesa/pull/501   |
+| closed | sivakom                | sivakom                |      12 | https://github.com/locationtech/geomesa/pull/494   |
+| closed | kevinwheeler           | kevinwheeler           |       4 | https://github.com/locationtech/geomesa/pull/487   |
+|   open | ant8012                | ant8012                |       1 | https://github.com/selendroid/selendroid/pull/849  |
+|   open | colindmurray           | colindmurray           |      20 | https://github.com/selendroid/selendroid/pull/848  |
+|   open | colindmurray           | chooper9               |       5 | https://github.com/selendroid/selendroid/pull/848  |
+| closed | h2dennis               | h2dennis               |       1 | https://github.com/selendroid/selendroid/pull/841  |
+| closed | huntinglauren          | huntinglauren          |       1 | https://github.com/selendroid/selendroid/pull/840  |
+| merged | huntinglauren          | huntinglauren          |       1 | https://github.com/selendroid/selendroid/pull/835  |
+| merged | chooper9               | chooper9               |       1 | https://github.com/selendroid/selendroid/pull/833  |
+| closed | chooper9               | chooper9               |       5 | https://github.com/selendroid/selendroid/pull/819  |
+| merged | Blackbaud-KyleMartinez | Blackbaud-KyleMartinez |       4 | https://github.com/selendroid/selendroid/pull/816  |
+| merged | Blackbaud-KyleMartinez | Blackbaud-KyleMartinez |       1 | https://github.com/selendroid/selendroid.io/pull/8 |
+|   open | thanhcs                | thanhcs                |       1 | https://github.com/ios-driver/ios-driver/pull/363  |
+| closed | thanhcs                | thanhcs                |       4 | https://github.com/ios-driver/ios-driver/pull/359  |

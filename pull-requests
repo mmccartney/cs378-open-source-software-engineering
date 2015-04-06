@@ -27,8 +27,8 @@ def main(argv):
     for student in config['students']:
         students[student['ghid']] = student
 
-    print '| %6s | %-22s | %-22s | %2s commits | %-50s |' \
-        % ('status', 'submitter', 'author', '#', 'link')
+    print '| %6s | %-22s | %-22s | %7s | %-50s |' \
+        % ('status', 'submitter', 'author', 'commits', 'link')
     print '| ------ | ---------------------- | ---------------------- ' + \
         '| ---------- | -------------------------------------------------- |'
 
@@ -71,7 +71,7 @@ def main(argv):
 
                 # report
                 for author, commits in authors.items():
-                    print '| %6s | %-22s | %-22s | %2d commits | %-50s |' \
+                    print '| %6s | %-22s | %-22s | %7d | %-50s |' \
                             % (state, submitter, author, commits,
                                pr['html_url'])
 
