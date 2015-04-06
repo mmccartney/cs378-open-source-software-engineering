@@ -1,0 +1,90 @@
+#!/usr/bin/env python
+
+import json
+import urllib2
+import sys
+import traceback
+from dateutil.parser import parse as parsedate
+import re
+
+GITHUB_API = 'https://api.github.com'
+
+def openurl(url, argv):
+    headers = {}
+    if argv:
+        headers['Authorization'] = 'token ' + argv[0]
+    req = urllib2.Request(url, headers=headers)
+    return urllib2.urlopen(req)
+
+def main(argv):
+    config = json.load(file('pull-requests.config'))
+
+    # only examine pull requests that came after the class_start
+    start = parsedate(config['class_start'])
+
+    # index students by github id
+    students = {}
+    for student in config['students']:
+        students[student['ghid']] = student
+
+    # loop over each project
+    for project in config['projects']:
+        org = project['org']
+        repo = project['repo']
+
+        # walk through all the pull requests for the given project.
+        # this may require multiple API calls to step through multiple
+        # pages of pull requests, so using a list of URLs which may grow
+        links = [ '%s/repos/%s/%s/pulls?state=all' % (GITHUB_API, org, repo) ]
+        for url in links:
+            resp = openurl(url, argv)
+            done = False
+
+            # loop over each pull request in the project
+            for pr in json.load(resp):
+                # stop the loop when we reach a PR that came before class_start
+                if parsedate(pr['created_at']) < start:
+                    done = True
+                    break
+
+                # ignore PRs submitted by non-students
+                submitter = pr['user']['login']
+                if submitter not in students:
+                    continue
+
+                # get the state as 'open', 'closed', or 'merged'
+                state = pr['state']
+                if pr.get('merged_at'):
+                    state = 'merged'
+
+                # count the commits for each student who contributed to the PR
+                authors = {}
+                for commit in json.load(openurl(pr['commits_url'], argv)):
+                    author = commit['author']['login']
+                    if author in students:
+                        authors[author] = authors.get(author, 0) + 1
+
+                # report
+                for author, commits in authors.items():
+                    print '| %6s | %-22s | %-22s | %2d commits | %-50s |' \
+                            % (state, submitter, author, commits,
+                               pr['html_url'])
+
+            if done:
+                break
+
+            # if there is a 'next' page, add it to the queue
+            link = resp.info().getheader('Link')
+            if link:
+                match = re.match(r'^.*<([^>]+)>; rel="next"', link)
+                if match:
+                    links.append(match.group(1))
+
+    return 0
+
+try:
+    status = main(sys.argv[1:])
+except:
+    traceback.print_exc(file=sys.stdout)
+    status = 1
+exit(status)
