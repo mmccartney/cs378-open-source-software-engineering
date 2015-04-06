@@ -27,6 +27,11 @@ def main(argv):
     for student in config['students']:
         students[student['ghid']] = student
 
+    print '| %6s | %-22s | %-22s | %2s commits | %-50s |' \
+        % ('status', 'submitter', 'author', '#', 'link')
+    print '| ------ | ---------------------- | ---------------------- ' + \
+        '| ---------- | -------------------------------------------------- |'
+
     # loop over each project
     for project in config['projects']:
         org = project['org']

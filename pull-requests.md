@@ -1,3 +1,5 @@
+| status | submitter              | author                 |  # commits | link                                               |
+| ------ | ---------------------- | ---------------------- | ---------- | -------------------------------------------------- |
 | merged | kyeah                  | kyeah                  |  3 commits | https://github.com/geotrellis/geotrellis/pull/1047 |
 |   open | st028                  | st028                  |  3 commits | https://github.com/geotrellis/geotrellis/pull/1044 |
 | merged | kyeah                  | kyeah                  |  6 commits | https://github.com/geotrellis/geotrellis/pull/1037 |
