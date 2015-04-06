@@ -20,12 +20,20 @@
     * [st028](https://github.com/st028)
 * https://github.com/geotrellis/geotrellis/pull/1032
     * [kyeah](https://github.com/kyeah)
+* https://github.com/geotrellis/geotrellis/pull/1037
+    * [kyeah](https://github.com/kyeah)
+* https://github.com/geotrellis/geotrellis/pull/1044
+    * [st028](https://github.com/st028)
+* https://github.com/geotrellis/geotrellis/pull/1047
+    * [kyeah](https://github.com/kyeah)
 
 ### Space Filling Curves
 
 * https://github.com/geotrellis/curve/pull/6
     * [sandan](https://github.com/sandan)
 * https://github.com/geotrellis/curve/pull/7
+    * [bretts61](https://github.com/bretts61)
+* https://github.com/geotrellis/curve/pull/11
     * [bretts61](https://github.com/bretts61)
 
 ## GeoMesa
@@ -51,6 +59,14 @@
     * [chooper9](https://github.com/chooper9)
 * https://github.com/selendroid/selendroid/pull/835
     * [huntinglauren](https://github.com/huntinglauren)
+* https://github.com/selendroid/selendroid/pull/840
+    * [huntinglauren](https://github.com/huntinglauren)
+* https://github.com/selendroid/selendroid/pull/841
+    * [h2dennis](https://github.com/h2dennis)
+* https://github.com/selendroid/selendroid/pull/848
+    * [colindmurray](https://github.com/colindmurray)
+* https://github.com/selendroid/selendroid/pull/849
+    * [ant8012](https://github.com/ant8012)
 
 ### Selendroid.io
 
@@ -58,7 +74,6 @@
     * [Blackbaud-KyleMartinez](https://github.com/Blackbaud-KyleMartinez)
 * https://github.com/selendroid/selendroid.io/pull/9
     * [ILikeToNguyen](https://github.com/ILikeToNguyen)
-
 
 ## iOS Driver
 
