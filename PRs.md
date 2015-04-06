@@ -27,6 +27,13 @@
 * https://github.com/geotrellis/geotrellis/pull/1047
     * [kyeah](https://github.com/kyeah)
 
+### GT-Admin
+
+* https://github.com/geotrellis/gt-admin/pull/1
+    * [SageMoore](https://github.com/SageMoore)
+* https://github.com/geotrellis/gt-admin/pull/2
+    * [SageMoore](https://github.com/SageMoore)
+
 ### Space Filling Curves
 
 * https://github.com/geotrellis/curve/pull/6
@@ -49,12 +56,8 @@
 
 * https://github.com/selendroid/selendroid/pull/816
     * [Blackbaud-KyleMartinez](https://github.com/Blackbaud-KyleMartinez)
-* https://github.com/selendroid/selendroid/pull/823
-    * [ILikeToNguyen](https://github.com/ILikeToNguyen)
 * https://github.com/selendroid/selendroid/pull/827
     * [huntinglauren](https://github.com/huntinglauren)
-* https://github.com/selendroid/selendroid/pull/829
-    * [ILikeToNguyen](https://github.com/ILikeToNguyen)
 * https://github.com/selendroid/selendroid/pull/833
     * [chooper9](https://github.com/chooper9)
 * https://github.com/selendroid/selendroid/pull/835
@@ -72,8 +75,6 @@
 
 * https://github.com/selendroid/selendroid.io/pull/8
     * [Blackbaud-KyleMartinez](https://github.com/Blackbaud-KyleMartinez)
-* https://github.com/selendroid/selendroid.io/pull/9
-    * [ILikeToNguyen](https://github.com/ILikeToNguyen)
 
 ## iOS Driver
 
