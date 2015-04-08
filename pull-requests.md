@@ -1,7 +1,7 @@
 | status | submitter              | author                 | commits | link                                               |
 | ------ | ---------------------- | ---------------------- | ---------- | -------------------------------------------------- |
 | merged | kyeah                  | kyeah                  |       3 | https://github.com/geotrellis/geotrellis/pull/1047 |
-|   open | st028                  | st028                  |       3 | https://github.com/geotrellis/geotrellis/pull/1044 |
+|   open | st028                  | st028                  |       4 | https://github.com/geotrellis/geotrellis/pull/1044 |
 | merged | kyeah                  | kyeah                  |       6 | https://github.com/geotrellis/geotrellis/pull/1037 |
 | merged | kyeah                  | kyeah                  |       2 | https://github.com/geotrellis/geotrellis/pull/1032 |
 | merged | st028                  | st028                  |       3 | https://github.com/geotrellis/geotrellis/pull/1031 |
@@ -15,7 +15,7 @@
 | closed | st028                  | st028                  |       1 | https://github.com/geotrellis/geotrellis/pull/985  |
 |   open | SageMoore              | SageMoore              |       2 | https://github.com/geotrellis/gt-admin/pull/2      |
 |   open | bretts61               | bretts61               |       3 | https://github.com/geotrellis/curve/pull/11        |
-|   open | sandan                 | sandan                 |       8 | https://github.com/geotrellis/curve/pull/10        |
+| merged | sandan                 | sandan                 |       9 | https://github.com/geotrellis/curve/pull/10        |
 | merged | bretts61               | bretts61               |      18 | https://github.com/geotrellis/curve/pull/7         |
 | merged | sandan                 | sandan                 |      28 | https://github.com/geotrellis/curve/pull/6         |
 | closed | kevinwheeler           | kevinwheeler           |       3 | https://github.com/locationtech/geomesa/pull/501   |
