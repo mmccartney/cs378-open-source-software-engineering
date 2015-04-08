@@ -302,3 +302,37 @@ Mon 6 Apr
     * how do you get PRs accepted?
     * if you get feedback on a PR, should you submit another?
     * what if they ask you to squash commits?
+
+* working time
+
+================================================================
+
+Wed 8 Apr
+
+* code reviews
+    * logic
+        * accuracy
+        * boundary conditions
+        * order of complexity
+    * usability
+    * style
+    * test cases
+    * maintainability
+        * documentation
+        * abstraction
+        * readability
+        * duplication
+    * security
+    * search for "code review checklist" and start using one!
+* review [pull-requests](https://github.com/mmccartney/cs378-open-source-software-engineering/blob/master/pull-requests) script
+    * hard coded config file name
+    * did not give examples of input data
+    * no command-line usage
+    * no header comment explaining the program
+    * variable names were too similar => confusing
+    * format string was duplicated
+    * argv / Authorization header hack
+    * state handling is not intuitive
+    * no test cases
+
+* working time
