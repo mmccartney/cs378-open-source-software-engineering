@@ -30,7 +30,7 @@ def main(argv):
     print '| %6s | %-22s | %-22s | %7s | %-50s |' \
         % ('status', 'submitter', 'author', 'commits', 'link')
     print '| ------ | ---------------------- | ---------------------- ' + \
-        '| ---------- | -------------------------------------------------- |'
+        '| ------- | -------------------------------------------------- |'
 
     # loop over each project
     for project in config['projects']:
@@ -65,7 +65,8 @@ def main(argv):
                 # count the commits for each student who contributed to the PR
                 authors = {}
                 for commit in json.load(openurl(pr['commits_url'], argv)):
-                    author = commit['author']['login']
+                    author = commit['author'] and commit['author']['login'] \
+                        or submitter
                     if author in students:
                         authors[author] = authors.get(author, 0) + 1
 
