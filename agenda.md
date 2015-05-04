@@ -351,3 +351,40 @@ Wed 15 Apr
 
 ================================================================
 
+Mon 20 Apr
+
+* working time
+
+================================================================
+
+Wed 22 Apr
+
+* lecture on time (see slides)
+
+================================================================
+
+Mon 27 Apr
+
+* review progress
+* tips on getting pull requests accepted
+* working time
+
+================================================================
+
+Wed 29 Apr
+
+* course survey = extra credit
+* career slides
+    * http://www.payne.org/index.php/Startup_Equity_For_Employees
+
+================================================================
+
+Mon 04 May
+
+* working time
+
+================================================================
+
+Wed 06 May
+
+* final exam
