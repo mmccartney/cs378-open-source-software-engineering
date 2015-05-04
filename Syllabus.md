@@ -66,6 +66,7 @@ Computer Science classes.
     * http://ios-driver.github.io/ios-driver/
 * Selendroid
     * https://github.com/selendroid/selendroid
+    * https://github.com/selendroid/selendroid.io
     * http://selendroid.io
 * GeoTrellis
     * https://github.com/geotrellis/geotrellis
