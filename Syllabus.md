@@ -69,6 +69,8 @@ Computer Science classes.
     * http://selendroid.io
 * GeoTrellis
     * https://github.com/geotrellis/geotrellis
+    * https://github.com/geotrellis/curve
+    * https://github.com/geotrellis/gt-admin
     * http://geotrellis.io
 
 ## Lecture topics
