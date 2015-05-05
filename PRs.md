@@ -70,6 +70,8 @@
     * [colindmurray](https://github.com/colindmurray)
 * https://github.com/selendroid/selendroid/pull/849
     * [ant8012](https://github.com/ant8012)
+* https://github.com/selendroid/selendroid/issues/845
+    * [colindmurray](https://github.com/colindmurray)
 
 ### Selendroid.io
 
