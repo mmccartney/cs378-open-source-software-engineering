@@ -51,6 +51,10 @@
     * [sivakom](https://github.com/sivakom)
 * https://github.com/locationtech/geomesa/pull/501
     * [kevinwheeler](https://github.com/kevinwheeler)
+* https://github.com/CS378-OSSE/geomesa/commit/93072e7cecc787e58f6a0c244467664181e19757
+    * Thien Vo
+* https://github.com/locationtech/geomesa/commit/2a4a1348810dfad50dd0e6fa0f8c30bbb516115f
+    * Phillip Pham
 
 ## Selendroid
 
@@ -84,3 +88,4 @@
     * [thanhcs](https://github.com/thanhcs)
 * https://github.com/ios-driver/ios-driver/pull/359
     * [thanhcs](https://github.com/thanhcs)
+
