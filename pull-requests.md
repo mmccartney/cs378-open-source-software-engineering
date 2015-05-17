@@ -1,5 +1,6 @@
 | status | submitter              | author                 | commits | link                                               |
 | ------ | ---------------------- | ---------------------- | ------- | -------------------------------------------------- |
+| closed | sandan                 | sandan                 |       9 | https://github.com/geotrellis/geotrellis/pull/1089 |
 | closed | sandan                 | sandan                 |      13 | https://github.com/geotrellis/geotrellis/pull/1070 |
 | merged | SageMoore              | SageMoore              |       1 | https://github.com/geotrellis/geotrellis/pull/1069 |
 | merged | kyeah                  | st028                  |       4 | https://github.com/geotrellis/geotrellis/pull/1065 |
@@ -17,9 +18,12 @@
 | merged | kyeah                  | kyeah                  |       5 | https://github.com/geotrellis/geotrellis/pull/991  |
 | merged | st028                  | st028                  |       1 | https://github.com/geotrellis/geotrellis/pull/987  |
 | closed | st028                  | st028                  |       1 | https://github.com/geotrellis/geotrellis/pull/985  |
+|   open | DarkManiel             | DarkManiel             |       6 | https://github.com/geotrellis/gt-admin/pull/19     |
+| closed | DarkManiel             | DarkManiel             |       1 | https://github.com/geotrellis/gt-admin/pull/18     |
+| merged | alimavrakis            | alimavrakis            |       3 | https://github.com/geotrellis/gt-admin/pull/16     |
 | closed | SageMoore              | SageMoore              |       3 | https://github.com/geotrellis/gt-admin/pull/14     |
-|   open | DarkManiel             | DarkManiel             |       4 | https://github.com/geotrellis/gt-admin/pull/13     |
-|   open | ZachSand               | ZachSand               |       1 | https://github.com/geotrellis/gt-admin/pull/12     |
+| closed | DarkManiel             | DarkManiel             |       5 | https://github.com/geotrellis/gt-admin/pull/13     |
+| closed | ZachSand               | ZachSand               |       2 | https://github.com/geotrellis/gt-admin/pull/12     |
 | merged | SageMoore              | SageMoore              |       1 | https://github.com/geotrellis/gt-admin/pull/11     |
 | merged | SageMoore              | SageMoore              |       3 | https://github.com/geotrellis/gt-admin/pull/10     |
 | merged | DarkManiel             | DarkManiel             |       2 | https://github.com/geotrellis/gt-admin/pull/9      |
@@ -38,8 +42,8 @@
 | merged | bretts61               | bretts61               |      18 | https://github.com/geotrellis/curve/pull/7         |
 | merged | sandan                 | sandan                 |      28 | https://github.com/geotrellis/curve/pull/6         |
 |   open | thv92                  | kevinwheeler           |       3 | https://github.com/locationtech/geomesa/pull/572   |
-|   open | thv92                  | thv92                  |       7 | https://github.com/locationtech/geomesa/pull/572   |
-|   open | sivakom                | sivakom                |       2 | https://github.com/locationtech/geomesa/pull/570   |
+|   open | thv92                  | thv92                  |      15 | https://github.com/locationtech/geomesa/pull/572   |
+| closed | sivakom                | sivakom                |       2 | https://github.com/locationtech/geomesa/pull/570   |
 | closed | pqpham90               | pqpham90               |       1 | https://github.com/locationtech/geomesa/pull/565   |
 | closed | pqpham90               | pqpham90               |       5 | https://github.com/locationtech/geomesa/pull/553   |
 | closed | pqpham90               | pqpham90               |       3 | https://github.com/locationtech/geomesa/pull/552   |
@@ -51,9 +55,9 @@
 | closed | kevinwheeler           | kevinwheeler           |       3 | https://github.com/locationtech/geomesa/pull/501   |
 | closed | sivakom                | sivakom                |      12 | https://github.com/locationtech/geomesa/pull/494   |
 | closed | kevinwheeler           | kevinwheeler           |       4 | https://github.com/locationtech/geomesa/pull/487   |
-|   open | chooper9               | chooper9               |       1 | https://github.com/selendroid/selendroid/pull/868  |
-|   open | chooper9               | colindmurray           |       1 | https://github.com/selendroid/selendroid/pull/868  |
-|   open | Mdelvalle              | Mdelvalle              |       7 | https://github.com/selendroid/selendroid/pull/867  |
+| merged | chooper9               | chooper9               |       1 | https://github.com/selendroid/selendroid/pull/868  |
+| merged | chooper9               | colindmurray           |       1 | https://github.com/selendroid/selendroid/pull/868  |
+| merged | Mdelvalle              | Mdelvalle              |       1 | https://github.com/selendroid/selendroid/pull/867  |
 | merged | danielrobertson        | danielrobertson        |       5 | https://github.com/selendroid/selendroid/pull/864  |
 | merged | nadaismail             | nadaismail             |       1 | https://github.com/selendroid/selendroid/pull/862  |
 | closed | mtimkovich             | mtimkovich             |       1 | https://github.com/selendroid/selendroid/pull/861  |
@@ -70,7 +74,7 @@
 | closed | chooper9               | chooper9               |       5 | https://github.com/selendroid/selendroid/pull/819  |
 | merged | Blackbaud-KyleMartinez | Blackbaud-KyleMartinez |       4 | https://github.com/selendroid/selendroid/pull/816  |
 | merged | Blackbaud-KyleMartinez | Blackbaud-KyleMartinez |       1 | https://github.com/selendroid/selendroid.io/pull/8 |
-|   open | derekngo               | derekngo               |       1 | https://github.com/ios-driver/ios-driver/pull/375  |
+| merged | derekngo               | derekngo               |       1 | https://github.com/ios-driver/ios-driver/pull/375  |
 |   open | derekngo               | derekngo               |       1 | https://github.com/ios-driver/ios-driver/pull/373  |
 | merged | thanhcs                | thanhcs                |       1 | https://github.com/ios-driver/ios-driver/pull/372  |
 | merged | brubch                 | brubch                 |       1 | https://github.com/ios-driver/ios-driver/pull/371  |
